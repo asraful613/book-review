@@ -1,7 +1,7 @@
 const ReadPage = () => {
     return (
         <div>
-            <p>kire sala</p>
+            <p>kire </p>
         </div>
     );
 };

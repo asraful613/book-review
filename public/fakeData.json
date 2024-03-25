@@ -1,0 +1,81 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://i.ibb.co/fHjGzhw/ready-back-school.jpg",
+      "review": "A captivating tale of wealth, love, and tragedy set against the backdrop of the roaring twenties.",
+      "totalPages": 218,
+      "rating": 4.5,
+      "category": "Classic Literature",
+      "tags": ["Romance", "Tragedy", "1920s"],
+      "publisher": "Scribner",
+      "yearOfPublishing": 1925
+    },
+    {
+      "bookId": 2,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "to_kill_a_mockingbird.jpg",
+      "review": "A powerful narrative tackling themes of racial injustice and morality, told through the eyes of a young girl.",
+      "totalPages": 281,
+      "rating": 4.7,
+      "category": "Fiction",
+      "tags": ["Social Issues", "Coming of Age"],
+      "publisher": "J. B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": 3,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "1984.jpg",
+      "review": "A dystopian masterpiece that explores the dangers of totalitarianism and surveillance society.",
+      "totalPages": 328,
+      "rating": 4.6,
+      "category": "Science Fiction",
+      "tags": ["Dystopian", "Political"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    },
+    {
+      "bookId": 4,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "pride_and_prejudice.jpg",
+      "review": "A timeless classic portraying the intricacies of social class, marriage, and love in Regency England.",
+      "totalPages": 279,
+      "rating": 4.8,
+      "category": "Romance",
+      "tags": ["Regency", "Satire", "British Literature"],
+      "publisher": "T. Egerton, Whitehall",
+      "yearOfPublishing": 1813
+    },
+    {
+      "bookId": 5,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "catcher_in_the_rye.jpg",
+      "review": "A poignant coming-of-age novel that explores teenage angst, identity, and societal expectations.",
+      "totalPages": 224,
+      "rating": 4.4,
+      "category": "Literary Fiction",
+      "tags": ["Identity", "Youth", "American Literature"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    },
+    {
+      "bookId": 6,
+      "bookName": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "the_hobbit.jpg",
+      "review": "An enchanting tale of adventure, friendship, and bravery, set in the magical world of Middle-earth.",
+      "totalPages": 310,
+      "rating": 4.9,
+      "category": "Fantasy",
+      "tags": ["Adventure", "Quest", "Middle-earth"],
+      "publisher": "Allen & Unwin",
+      "yearOfPublishing": 1937
+    }
+  ]
+  
